@@ -11,6 +11,6 @@ Shery.makeMagnet("#nav h3",{});
 
 Shery.imageEffect("#left-div img", {
     style: 6,
-    debug: true,
+    // debug: true,
     gooey: true,
   });
