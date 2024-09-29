@@ -5,3 +5,12 @@ var typed=new Typed(".typing-text",{
     loop:true,
     loopCount: Infinity
 })
+
+Shery.makeMagnet(".links a",{});
+Shery.makeMagnet("#nav h3",{});
+
+Shery.imageEffect("#left-div img", {
+    style: 6,
+    debug: true,
+    gooey: true,
+  });
